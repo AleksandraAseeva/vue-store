@@ -1,4 +1,4 @@
-# diploma
+# Код пет-проекта
 
 ## Project setup
 ```
@@ -15,5 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+README с описанием проекта на ветке gh-pages
