@@ -19,4 +19,3 @@
 
 [![Live Demo](https://img.shields.io/badge/%F0%9F%94%97-Live_Demo-4FC08D?style=for-the-badge)](https://aleksandraaseeva.github.io/vue-store/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?logo=github&style=for-the-badge)](https://pages.github.com/)
-сайт развернут на github pages
